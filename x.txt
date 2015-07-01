@@ -2,6 +2,6 @@ fubar
 
 THe cat ran down the street.
 
-THen the dog ate the cat.THen the dog ate the cat.
+THen the dog ate the cat.
 
 Gopo
